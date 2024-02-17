@@ -1,2 +1,11 @@
-# Applied_Data_Science_Capstone_SpaceX_IBM
-Applied Data Science Capstone SpaceX IBM
+## IBM Data Science Capstone Project - SpaceX
+#### Introduction
+In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+
+This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders. You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully.
+
+## Business Challenge
+SpaceX markets its Falcon 9 rocket launches on its platform at a price of 62 million dollars, in stark contrast to other competitors whose prices start at 165 million dollars per launch. A significant portion of these cost savings stems from SpaceX's ability to recover and reuse the rocket's first stage. If one can precisely forecast the success rate of the first stage's landing, it becomes possible to assess the financial outlay for each launch. Utilizing the insights and predictive models derived from data science, the competing startup employing your services could place more strategic bids in opposition to SpaceX for conducting rocket launches.
+
+## Project Goal
+The aim is to leverage the data science toolkit and machine learning techniques to accurately estimate the chances of the Falcon 9 rocket's first stage making a successful landing, thereby enabling the calculation of launch costs. Additionally, the project seeks to delve into the dataset to garner deeper understanding and insights, enhancing the predictive accuracy and informing strategic decision-making.
